@@ -9,7 +9,7 @@ It helps you to generate examples of [Gang of Four](https://www.dofactory.com/ne
 Use the [dotnet core CLI](https://docs.microsoft.com/pt-br/dotnet/core/tools/) to install DotNetGoF.
 
 ```bash
-dotnet new -i DotNetGoF -Version 1.0.0
+dotnet new --install DotNetGoF::1.0.0
 ```
 
 ## Usage
