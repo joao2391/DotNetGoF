@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "João Paulo de Castro Lima",
+  "classifications": [ "Common", "ClassLibrary", "C#" ],
+  "identity": "GoF.Command",
+  "name": "GoF: Command",
+  "shortName": "gofcommand",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
