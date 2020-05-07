@@ -1,5 +1,8 @@
 # DotNetGoF
 
+
+[![Nuget](https://img.shields.io/nuget/v/DotNetGoF)](https://www.nuget.org/packages/DotNetGoF/) ![Nuget](https://img.shields.io/nuget/dt/DotNetGoF) 
+
 DotNetGoF is a CLI template for .NET Core.
 
 It helps you to generate examples of [Gang of Four](https://www.dofactory.com/net/design-patterns).
